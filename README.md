@@ -1,4 +1,4 @@
-
+(https://github-readme-stats.vercel.app/api?username=https://github.com/Rahul3056)](https://github.com/Rahul3056/github-readme-stats)
 # 👋 Hi there, I'm Rahul Teradal!
 🎯 SoC Verification Enthusiast | 💻 Digital Design | Verilog | SystemVerilog | UVM
 🚀 Building my SoC verification profile with daily GitHub updates
