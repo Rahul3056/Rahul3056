@@ -1,3 +1,9 @@
+## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Rahul3056&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rahul3056&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Rahul3056&show_icons=true&theme=radical)
+
+
 (https://github-readme-stats.vercel.app/api?username=https://github.com/Rahul3056)](https://github.com/Rahul3056/github-readme-stats)
 # 👋 Hi there, I'm Rahul Teradal!
 🎯 SoC Verification Enthusiast | 💻 Digital Design | Verilog | SystemVerilog | UVM
