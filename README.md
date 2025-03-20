@@ -2,13 +2,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul3056&theme=radical)   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul3056&show_icons=true&theme=radical)
 
-
-(https://github-readme-stats.vercel.app/api?username=https://github.com/Rahul3056)](https://github.com/Rahul3056/github-readme-stats)
 # 👋 Hi there, I'm Rahul Teradal!
 🎯 SoC Verification Enthusiast | 💻 Digital Design | Verilog | SystemVerilog | UVM
 🚀 Building my SoC verification profile with daily GitHub updates
 🧠 Intern at Sion Semiconductors | 📚 100-Day SoC Verification Challenge
-
 
 ## 🧑‍💻 About Me
 - 🔭 I’m currently building my GitHub profile with SoC verification projects
