@@ -17,8 +17,10 @@
 - ✅ Day 1: Basic Logic Gates in Verilog
 - ✅ Day 2: Full Adder Design and Simulation
 - ✅ Day 3: 4-bit ALU Design
-- 🚧 Day 4: Ongoing...
-
+               .
+               .
+               .
+               .
 - ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahulteradal/)
 - 🌐 [GitHub](https://github.com/Rahul3056)
